@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowtham varma
-- 
-- <br>
+
+<br>
       Data Scientist & Visual Story - discoverer ...
 
 Entrepreneurial thinking towards problem-solving and ability to adapt to the shifts in technology. 
