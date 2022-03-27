@@ -20,18 +20,18 @@ Libraries: Numpy, Pandas, Statsmodel, ScikitLearn, Matplotlib.
 
 - 👀 I’m interested in I love telling stories with data and using data to help bring that data to life. As a data scientist I can turn seemingly meaningless data into a recommendation to help a company improve its product, services, or experiences.
 - I have a passion for helping. In data science that could be helping a business understand its customers or improving the way it uses its customer data. I get a fantastic feeling of job satisfaction when I see the fruits of my labor helping in many different ways.
-- <br>
-- <br>
+<br>
+<br>
 - 🌱 I’m currently learning MS Business Analytics and Data Science at Spears School of Business - Oklahoma State University
-- <br>
+<br>
 - 💞️ I’m looking to collaborate on ...
 -     1. Precious Data collection and exploring.
 -     2. Scientific Understanding of Learning, Especially Deep Learning Algorithms.
       3. Computing Systems for Data-Intensive Applications
 -     4. Trustworthy AI
-- <br>
+<br>
 - 📫 How to reach me gowthamvarma810@gmail.com
-- <br>
+<br>
 - My Digital Garden... 
 
 
