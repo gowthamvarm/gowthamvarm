@@ -40,15 +40,10 @@ gowthamvarm/gowthamvarm is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-Hi there 👋
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I’m  pursuing Masters in Computer science from Oklahoma state university.
-- 🌱 My courseworks are:- Data Structures, Operating systems 2, Computer Architecture and Organization, Big Data Management.
-- 👯 I’m open for opportunities as Software developer intern.
-- 📫 How to reach me: 
 
- [![Linkedin Badge](https://img.shields.io/badge/-Srinath_sai_Tripuraneni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srinath-sai-tripuraneni-b7b2511b3/)](https://www.linkedin.com/in/srinath-sai-tripuraneni-b7b2511b3/) [![Gmail Badge](https://img.shields.io/badge/-srinathtripuraneni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinathtripuraneni@gmail.com)](mailto:srinathtripuraneni@gmail.com)
 
- ![Srinath's github stats](https://github-readme-stats.vercel.app/api?username=srinathsai&show_icons=true&theme=dark)
+ [![Linkedin Badge](https://img.shields.io/badge/-Gowtham_Varma_Bhupathiraju-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhgowthamvarma/)](https://www.linkedin.com/in/bhgowthamvarma/) [![Gmail Badge](https://img.shields.io/badge/-gowthamvarma810@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srinathtripuraneni@gmail.com)](mailto:gowthamvarma810@gmail.com)
+
+ ![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=gowthamvarm&show_icons=true&theme=dark)
